@@ -1,0 +1,3 @@
+clock=$(date +'%H:%M')
+icon=" "
+printf " %s %s \\n" "$icon" "$clock" 
